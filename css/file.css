@@ -1,0 +1,175 @@
+/*#headwrap .navbar-collapse{
+	border-radius: 50px;
+	padding-left: 185px;
+    margin-top: 23px;
+}
+#headwrap nav .navbar-nav li a{
+    margin-top: -25px;
+}
+#headwrap .navbar-header{
+	padding-left: 125px;
+	}*/
+	
+	#headwrap .navbar-default{
+		padding-top: 40px;
+        padding-bottom: 70px;
+        background-color: #e4e8ed;
+	}
+	#headwrap .navbar-default .navbar-nav li>a:hover{
+        text-decoration: underline;
+        color: #1324c6;
+	}
+	#service{
+		padding-bottom: 70px;
+		margin-top: 0px;
+	}
+	#service .about h3{
+        margin-top: 30px;
+	}
+	#service .about{
+		padding-left: 125px;
+	}
+	#service .aboutimage{
+		padding-left: 70px;
+	}
+
+	#service .aboutimage img{
+		width: 100%;
+
+	}
+	#service{
+		background-color: #e4e8ed;
+	}
+
+
+
+	#service1{
+		margin-top: 100px;
+		margin-bottom: 125px;
+	}
+	#service1 .col-md-4{
+		text-align: center;
+	}
+
+
+	
+	#service2 .des{
+		background: #845f51;
+	}
+	/*#service2 .des{
+		padding: 105px;
+	}*/
+
+	#service2  .row {overflow: hidden;}
+   #service2 .des {
+       padding-bottom: 1000px;
+       margin-bottom: -1000px;
+    }
+	#service2 .description{
+		background-color: #664735;
+		padding-left: 50px;
+	}
+	#service2 .btn-default{
+		margin-bottom: 50px;
+		margin-top: 36px;
+	}
+	#service2 .description h4{
+        margin-top: 50px;
+	}
+	#service2 .description h4,#service2 .description p{
+		color: #ffffff;
+	}
+
+	#service2 .des img{
+		width: 100%;
+	}
+
+
+
+	#service3{
+		margin-top: 140px;
+		margin-bottom: 140px;
+		text-align: center;
+	}
+	#service3 span img{
+		margin-top: 18px;
+		margin-bottom: 18px;
+	}
+
+	#service3 .col-md-4 img{
+		width: 100%;
+	}
+	#service3 p{
+		margin-bottom: 36px;
+	}
+
+
+
+
+	#service4{
+		background:url("../image/footer.jpg");
+	}
+    #service4 h3{
+    	padding-top: 50px;
+    	color: #ffffff;
+    	padding-bottom: 18px;
+    }
+    #service4 .address p,#service4 .address2 p,#service4 .address3 p{
+    	color: #ffffff;
+    	padding-bottom: 6px;
+    }
+    #service4 .address a{
+    	color: #ffffff;
+    }
+    #service4 .address a:hover{
+    	text-decoration: underline;
+    	color: #1f23be;
+    }
+    #service4{
+    	padding-bottom: 36px;
+    }
+    #service4 .contact{
+    	background-image:url("../image/sp.png");
+        background-position: -10px -45px;
+        height: 17px;
+        width: 17px;
+        float: left;
+    }
+    #service4 .contact1{
+    	background-image:url("../image/sp.png");
+        background-position: -56px -45px;
+        height: 17px;
+        width: 37px;
+        float: left;
+    }
+    #service4 .contact2{
+    	background-image:url("../image/sp.png");
+        background-position: -93px -45px;
+        height: 17px;
+        width: 37px;
+        float: left;
+    }
+    #service4 .contact3{
+    	background-image:url("../image/sp.png");
+        background-position: -137px -45px;
+        height: 19px;
+        width: 37px;
+        float: left;
+    }
+    #service4 ul li{
+    	display: inline-block;
+    }
+
+
+
+    #service5 p{
+        padding-top: 54px;
+    }
+   /* #service5 img{
+    	padding-left: 560px;
+    	padding-bottom:34px;
+    }*/
+
+    #service5 .toparrow {
+         text-align: center;
+    }

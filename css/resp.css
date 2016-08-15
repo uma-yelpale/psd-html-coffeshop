@@ -1,0 +1,57 @@
+/* Large Devices, Wide Screens */
+@media  screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media  screen and (max-width : 992px) {
+  
+}
+
+/* Small Devices, Tablets */
+@media  screen and (max-width : 768px) {
+
+	 #service1 .col-md-4 {
+	 	margin-bottom: 20px;
+	 }
+
+	 #service2 .description {
+    padding-left: 15px;
+        text-align: center;
+   }
+	
+#service2 .description h4{
+    padding-top: 20px;
+  }
+
+  #service4 .col-md-3 {
+  	text-align: center;
+  }
+
+  #service5 .designnote {
+      text-align: center;
+  }
+  
+}
+
+/* Extra Small Devices, Phones */ 
+@media  screen and (max-width : 480px) {
+
+	#service .about {
+     text-align: center;
+     padding-left: 15px; 
+    }
+
+    #service .about h3 {
+    	font-size: 18px;
+    }
+
+    
+ 
+}
+
+/* Custom, iPhone Retina */ 
+@media  screen and (max-width : 320px) {
+
+	
+}
